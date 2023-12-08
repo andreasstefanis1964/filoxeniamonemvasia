@@ -1109,10 +1109,6 @@ section.lazy-placeholder:after {
     text-align: left;
   }
 }
-.cid-rzMgJD6sEt .mbr-text,
-.cid-rzMgJD6sEt .mbr-section-btn {
-  color: #ffffff;
-}
 .cid-rzMgL0Khyt {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1313,7 +1309,7 @@ section.lazy-placeholder:after {
 .cid-tWEviClYJw {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/ancient-city-monemvasia-fortress-wall-shore-big-island-sunrise-peloponnese-greece-min-min.webp");
+  background-image: url("../../../assets/images/02-760x420.webp");
 }
 .cid-tWEviClYJw .underline .line {
   width: 2rem;
@@ -2045,28 +2041,28 @@ section.lazy-placeholder:after {
     padding: 0 15px;
   }
 }
-.cid-tXuJHdMfza {
+.cid-tWHTuzcxc1 {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-tXuJHdMfza .wrapper {
+.cid-tWHTuzcxc1 .wrapper {
   overflow: hidden;
 }
-.cid-tXuJHdMfza .wrapper img {
+.cid-tWHTuzcxc1 .wrapper img {
   transition: all .5s;
 }
-.cid-tXuJHdMfza .wrapper:hover img {
+.cid-tWHTuzcxc1 .wrapper:hover img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1);
 }
-.cid-tXuJHdMfza .underline .line {
+.cid-tWHTuzcxc1 .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXuJHdMfza .wrapper {
+.cid-tWHTuzcxc1 .wrapper {
   position: relative;
   padding: 2rem;
   display: flex;
@@ -2076,13 +2072,13 @@ section.lazy-placeholder:after {
   align-items: flex-end;
   height: 25rem;
 }
-.cid-tXuJHdMfza .wrapper .mbr-overlay {
+.cid-tWHTuzcxc1 .wrapper .mbr-overlay {
   background: #000000;
   opacity: 0.3;
   z-index: 1;
   pointer-events: none;
 }
-.cid-tXuJHdMfza .wrapper img {
+.cid-tWHTuzcxc1 .wrapper img {
   position: absolute;
   top: 0;
   left: 0;
@@ -2091,31 +2087,31 @@ section.lazy-placeholder:after {
   object-fit: cover;
   object-position: center center;
 }
-.cid-tXuJHdMfza .wrapper .content-block {
+.cid-tWHTuzcxc1 .wrapper .content-block {
   position: relative;
   width: 100%;
   z-index: 1;
 }
 @media (max-width: 991px) {
-  .cid-tXuJHdMfza .first-row-card {
+  .cid-tWHTuzcxc1 .first-row-card {
     padding-bottom: 2rem;
   }
 }
-.cid-tXuJFPIR6V {
+.cid-tWHTuzF2gQ {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/ancient-city-monemvasia-fortress-wall-shore-big-island-sunrise-peloponnese-greece-min-min.webp");
+  background-image: url("../../../assets/images/02-760x420.webp");
 }
-.cid-tXuJFPIR6V .underline .line {
+.cid-tWHTuzF2gQ .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXuJFPIR6V .form-group {
+.cid-tWHTuzF2gQ .form-group {
   margin-bottom: 1rem;
 }
-.cid-tXuJFPIR6V .form-control {
+.cid-tWHTuzF2gQ .form-control {
   border: none !important;
   border-radius: 0;
   padding: 0.5rem 1rem;
@@ -2123,58 +2119,58 @@ section.lazy-placeholder:after {
   color: #000000;
   width: 100%;
 }
-.cid-tXuJFPIR6V textarea.form-control {
+.cid-tWHTuzF2gQ textarea.form-control {
   min-height: 96px;
 }
-.cid-tXuJFPIR6V .input-group-btn {
+.cid-tWHTuzF2gQ .input-group-btn {
   width: 100%;
 }
-.cid-tXuJFPIR6V .input-group-btn .btn {
+.cid-tWHTuzF2gQ .input-group-btn .btn {
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
-.cid-tXuJFPIR6V .form-control-label {
+.cid-tWHTuzF2gQ .form-control-label {
   color: #ffffff;
   font-size: 1rem;
   font-weight: 100 !important;
 }
-.cid-tXuJFPIR6V .google-map {
+.cid-tWHTuzF2gQ .google-map {
   width: 100%;
   height: 25rem;
 }
-.cid-tXuJFPIR6V .google-map iframe {
+.cid-tWHTuzF2gQ .google-map iframe {
   width: inherit;
   height: 100%;
 }
-.cid-tXuJFPIR6V .info-row ol {
+.cid-tWHTuzF2gQ .info-row ol {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
-.cid-tXuJFPIR6V .info-row ol li {
+.cid-tWHTuzF2gQ .info-row ol li {
   display: flex;
   -webkit-justify-content: space-between;
   justify-content: space-between;
   border-bottom: 1px solid #ffffff !important;
   padding: 10px;
 }
-.cid-tXuJFPIR6V .info-value {
+.cid-tWHTuzF2gQ .info-value {
   color: #efefef;
 }
 @media (max-width: 991px), (max-width: 767px) {
-  .cid-tXuJFPIR6V .form-wrapper {
+  .cid-tWHTuzF2gQ .form-wrapper {
     padding-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-tXuJFPIR6V .form-subtitle {
+  .cid-tWHTuzF2gQ .form-subtitle {
     text-align: center;
   }
 }
-.cid-tXuJFPIR6V .mbr-fallback-image.disabled {
+.cid-tWHTuzF2gQ .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tXuJFPIR6V .mbr-fallback-image {
+.cid-tWHTuzF2gQ .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2836,28 +2832,28 @@ section.lazy-placeholder:after {
     padding: 0 15px;
   }
 }
-.cid-tXuNLPDMUt {
+.cid-tWIgUObP7A {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-tXuNLPDMUt .wrapper {
+.cid-tWIgUObP7A .wrapper {
   overflow: hidden;
 }
-.cid-tXuNLPDMUt .wrapper img {
+.cid-tWIgUObP7A .wrapper img {
   transition: all .5s;
 }
-.cid-tXuNLPDMUt .wrapper:hover img {
+.cid-tWIgUObP7A .wrapper:hover img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1);
 }
-.cid-tXuNLPDMUt .underline .line {
+.cid-tWIgUObP7A .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXuNLPDMUt .wrapper {
+.cid-tWIgUObP7A .wrapper {
   position: relative;
   padding: 2rem;
   display: flex;
@@ -2867,13 +2863,13 @@ section.lazy-placeholder:after {
   align-items: flex-end;
   height: 25rem;
 }
-.cid-tXuNLPDMUt .wrapper .mbr-overlay {
+.cid-tWIgUObP7A .wrapper .mbr-overlay {
   background: #000000;
   opacity: 0.3;
   z-index: 1;
   pointer-events: none;
 }
-.cid-tXuNLPDMUt .wrapper img {
+.cid-tWIgUObP7A .wrapper img {
   position: absolute;
   top: 0;
   left: 0;
@@ -2882,31 +2878,31 @@ section.lazy-placeholder:after {
   object-fit: cover;
   object-position: center center;
 }
-.cid-tXuNLPDMUt .wrapper .content-block {
+.cid-tWIgUObP7A .wrapper .content-block {
   position: relative;
   width: 100%;
   z-index: 1;
 }
 @media (max-width: 991px) {
-  .cid-tXuNLPDMUt .first-row-card {
+  .cid-tWIgUObP7A .first-row-card {
     padding-bottom: 2rem;
   }
 }
-.cid-tXuNMNmtD4 {
+.cid-tWIgUOEnth {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/ancient-city-monemvasia-fortress-wall-shore-big-island-sunrise-peloponnese-greece-min-min.webp");
+  background-image: url("../../../assets/images/02-760x420.webp");
 }
-.cid-tXuNMNmtD4 .underline .line {
+.cid-tWIgUOEnth .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXuNMNmtD4 .form-group {
+.cid-tWIgUOEnth .form-group {
   margin-bottom: 1rem;
 }
-.cid-tXuNMNmtD4 .form-control {
+.cid-tWIgUOEnth .form-control {
   border: none !important;
   border-radius: 0;
   padding: 0.5rem 1rem;
@@ -2914,58 +2910,58 @@ section.lazy-placeholder:after {
   color: #000000;
   width: 100%;
 }
-.cid-tXuNMNmtD4 textarea.form-control {
+.cid-tWIgUOEnth textarea.form-control {
   min-height: 96px;
 }
-.cid-tXuNMNmtD4 .input-group-btn {
+.cid-tWIgUOEnth .input-group-btn {
   width: 100%;
 }
-.cid-tXuNMNmtD4 .input-group-btn .btn {
+.cid-tWIgUOEnth .input-group-btn .btn {
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
-.cid-tXuNMNmtD4 .form-control-label {
+.cid-tWIgUOEnth .form-control-label {
   color: #ffffff;
   font-size: 1rem;
   font-weight: 100 !important;
 }
-.cid-tXuNMNmtD4 .google-map {
+.cid-tWIgUOEnth .google-map {
   width: 100%;
   height: 25rem;
 }
-.cid-tXuNMNmtD4 .google-map iframe {
+.cid-tWIgUOEnth .google-map iframe {
   width: inherit;
   height: 100%;
 }
-.cid-tXuNMNmtD4 .info-row ol {
+.cid-tWIgUOEnth .info-row ol {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
-.cid-tXuNMNmtD4 .info-row ol li {
+.cid-tWIgUOEnth .info-row ol li {
   display: flex;
   -webkit-justify-content: space-between;
   justify-content: space-between;
   border-bottom: 1px solid #ffffff !important;
   padding: 10px;
 }
-.cid-tXuNMNmtD4 .info-value {
+.cid-tWIgUOEnth .info-value {
   color: #efefef;
 }
 @media (max-width: 991px), (max-width: 767px) {
-  .cid-tXuNMNmtD4 .form-wrapper {
+  .cid-tWIgUOEnth .form-wrapper {
     padding-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-tXuNMNmtD4 .form-subtitle {
+  .cid-tWIgUOEnth .form-subtitle {
     text-align: center;
   }
 }
-.cid-tXuNMNmtD4 .mbr-fallback-image.disabled {
+.cid-tWIgUOEnth .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tXuNMNmtD4 .mbr-fallback-image {
+.cid-tWIgUOEnth .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -3627,28 +3623,28 @@ section.lazy-placeholder:after {
     padding: 0 15px;
   }
 }
-.cid-tXvpv4i8bd {
+.cid-tWIiycSbdG {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-tXvpv4i8bd .wrapper {
+.cid-tWIiycSbdG .wrapper {
   overflow: hidden;
 }
-.cid-tXvpv4i8bd .wrapper img {
+.cid-tWIiycSbdG .wrapper img {
   transition: all .5s;
 }
-.cid-tXvpv4i8bd .wrapper:hover img {
+.cid-tWIiycSbdG .wrapper:hover img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1);
 }
-.cid-tXvpv4i8bd .underline .line {
+.cid-tWIiycSbdG .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXvpv4i8bd .wrapper {
+.cid-tWIiycSbdG .wrapper {
   position: relative;
   padding: 2rem;
   display: flex;
@@ -3658,13 +3654,13 @@ section.lazy-placeholder:after {
   align-items: flex-end;
   height: 25rem;
 }
-.cid-tXvpv4i8bd .wrapper .mbr-overlay {
+.cid-tWIiycSbdG .wrapper .mbr-overlay {
   background: #000000;
   opacity: 0.3;
   z-index: 1;
   pointer-events: none;
 }
-.cid-tXvpv4i8bd .wrapper img {
+.cid-tWIiycSbdG .wrapper img {
   position: absolute;
   top: 0;
   left: 0;
@@ -3673,31 +3669,31 @@ section.lazy-placeholder:after {
   object-fit: cover;
   object-position: center center;
 }
-.cid-tXvpv4i8bd .wrapper .content-block {
+.cid-tWIiycSbdG .wrapper .content-block {
   position: relative;
   width: 100%;
   z-index: 1;
 }
 @media (max-width: 991px) {
-  .cid-tXvpv4i8bd .first-row-card {
+  .cid-tWIiycSbdG .first-row-card {
     padding-bottom: 2rem;
   }
 }
-.cid-tXvpw2C55v {
+.cid-tWIiydnlxg {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/ancient-city-monemvasia-fortress-wall-shore-big-island-sunrise-peloponnese-greece-min-min.webp");
+  background-image: url("../../../assets/images/02-760x420.webp");
 }
-.cid-tXvpw2C55v .underline .line {
+.cid-tWIiydnlxg .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXvpw2C55v .form-group {
+.cid-tWIiydnlxg .form-group {
   margin-bottom: 1rem;
 }
-.cid-tXvpw2C55v .form-control {
+.cid-tWIiydnlxg .form-control {
   border: none !important;
   border-radius: 0;
   padding: 0.5rem 1rem;
@@ -3705,58 +3701,58 @@ section.lazy-placeholder:after {
   color: #000000;
   width: 100%;
 }
-.cid-tXvpw2C55v textarea.form-control {
+.cid-tWIiydnlxg textarea.form-control {
   min-height: 96px;
 }
-.cid-tXvpw2C55v .input-group-btn {
+.cid-tWIiydnlxg .input-group-btn {
   width: 100%;
 }
-.cid-tXvpw2C55v .input-group-btn .btn {
+.cid-tWIiydnlxg .input-group-btn .btn {
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
-.cid-tXvpw2C55v .form-control-label {
+.cid-tWIiydnlxg .form-control-label {
   color: #ffffff;
   font-size: 1rem;
   font-weight: 100 !important;
 }
-.cid-tXvpw2C55v .google-map {
+.cid-tWIiydnlxg .google-map {
   width: 100%;
   height: 25rem;
 }
-.cid-tXvpw2C55v .google-map iframe {
+.cid-tWIiydnlxg .google-map iframe {
   width: inherit;
   height: 100%;
 }
-.cid-tXvpw2C55v .info-row ol {
+.cid-tWIiydnlxg .info-row ol {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
-.cid-tXvpw2C55v .info-row ol li {
+.cid-tWIiydnlxg .info-row ol li {
   display: flex;
   -webkit-justify-content: space-between;
   justify-content: space-between;
   border-bottom: 1px solid #ffffff !important;
   padding: 10px;
 }
-.cid-tXvpw2C55v .info-value {
+.cid-tWIiydnlxg .info-value {
   color: #efefef;
 }
 @media (max-width: 991px), (max-width: 767px) {
-  .cid-tXvpw2C55v .form-wrapper {
+  .cid-tWIiydnlxg .form-wrapper {
     padding-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-tXvpw2C55v .form-subtitle {
+  .cid-tWIiydnlxg .form-subtitle {
     text-align: center;
   }
 }
-.cid-tXvpw2C55v .mbr-fallback-image.disabled {
+.cid-tWIiydnlxg .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tXvpw2C55v .mbr-fallback-image {
+.cid-tWIiydnlxg .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4418,28 +4414,28 @@ section.lazy-placeholder:after {
     padding: 0 15px;
   }
 }
-.cid-tXvqXGM0TB {
+.cid-tWIjnolpez {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-tXvqXGM0TB .wrapper {
+.cid-tWIjnolpez .wrapper {
   overflow: hidden;
 }
-.cid-tXvqXGM0TB .wrapper img {
+.cid-tWIjnolpez .wrapper img {
   transition: all .5s;
 }
-.cid-tXvqXGM0TB .wrapper:hover img {
+.cid-tWIjnolpez .wrapper:hover img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1);
 }
-.cid-tXvqXGM0TB .underline .line {
+.cid-tWIjnolpez .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXvqXGM0TB .wrapper {
+.cid-tWIjnolpez .wrapper {
   position: relative;
   padding: 2rem;
   display: flex;
@@ -4449,13 +4445,13 @@ section.lazy-placeholder:after {
   align-items: flex-end;
   height: 25rem;
 }
-.cid-tXvqXGM0TB .wrapper .mbr-overlay {
+.cid-tWIjnolpez .wrapper .mbr-overlay {
   background: #000000;
   opacity: 0.3;
   z-index: 1;
   pointer-events: none;
 }
-.cid-tXvqXGM0TB .wrapper img {
+.cid-tWIjnolpez .wrapper img {
   position: absolute;
   top: 0;
   left: 0;
@@ -4464,31 +4460,31 @@ section.lazy-placeholder:after {
   object-fit: cover;
   object-position: center center;
 }
-.cid-tXvqXGM0TB .wrapper .content-block {
+.cid-tWIjnolpez .wrapper .content-block {
   position: relative;
   width: 100%;
   z-index: 1;
 }
 @media (max-width: 991px) {
-  .cid-tXvqXGM0TB .first-row-card {
+  .cid-tWIjnolpez .first-row-card {
     padding-bottom: 2rem;
   }
 }
-.cid-tXvqVSVHIr {
+.cid-tWIjnoOaCM {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/ancient-city-monemvasia-fortress-wall-shore-big-island-sunrise-peloponnese-greece-min-min.webp");
+  background-image: url("../../../assets/images/02-760x420.webp");
 }
-.cid-tXvqVSVHIr .underline .line {
+.cid-tWIjnoOaCM .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXvqVSVHIr .form-group {
+.cid-tWIjnoOaCM .form-group {
   margin-bottom: 1rem;
 }
-.cid-tXvqVSVHIr .form-control {
+.cid-tWIjnoOaCM .form-control {
   border: none !important;
   border-radius: 0;
   padding: 0.5rem 1rem;
@@ -4496,58 +4492,58 @@ section.lazy-placeholder:after {
   color: #000000;
   width: 100%;
 }
-.cid-tXvqVSVHIr textarea.form-control {
+.cid-tWIjnoOaCM textarea.form-control {
   min-height: 96px;
 }
-.cid-tXvqVSVHIr .input-group-btn {
+.cid-tWIjnoOaCM .input-group-btn {
   width: 100%;
 }
-.cid-tXvqVSVHIr .input-group-btn .btn {
+.cid-tWIjnoOaCM .input-group-btn .btn {
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
-.cid-tXvqVSVHIr .form-control-label {
+.cid-tWIjnoOaCM .form-control-label {
   color: #ffffff;
   font-size: 1rem;
   font-weight: 100 !important;
 }
-.cid-tXvqVSVHIr .google-map {
+.cid-tWIjnoOaCM .google-map {
   width: 100%;
   height: 25rem;
 }
-.cid-tXvqVSVHIr .google-map iframe {
+.cid-tWIjnoOaCM .google-map iframe {
   width: inherit;
   height: 100%;
 }
-.cid-tXvqVSVHIr .info-row ol {
+.cid-tWIjnoOaCM .info-row ol {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
-.cid-tXvqVSVHIr .info-row ol li {
+.cid-tWIjnoOaCM .info-row ol li {
   display: flex;
   -webkit-justify-content: space-between;
   justify-content: space-between;
   border-bottom: 1px solid #ffffff !important;
   padding: 10px;
 }
-.cid-tXvqVSVHIr .info-value {
+.cid-tWIjnoOaCM .info-value {
   color: #efefef;
 }
 @media (max-width: 991px), (max-width: 767px) {
-  .cid-tXvqVSVHIr .form-wrapper {
+  .cid-tWIjnoOaCM .form-wrapper {
     padding-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-tXvqVSVHIr .form-subtitle {
+  .cid-tWIjnoOaCM .form-subtitle {
     text-align: center;
   }
 }
-.cid-tXvqVSVHIr .mbr-fallback-image.disabled {
+.cid-tWIjnoOaCM .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tXvqVSVHIr .mbr-fallback-image {
+.cid-tWIjnoOaCM .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -5209,28 +5205,28 @@ section.lazy-placeholder:after {
     padding: 0 15px;
   }
 }
-.cid-tXuLvRAKjo {
+.cid-tWIku9trGu {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-tXuLvRAKjo .wrapper {
+.cid-tWIku9trGu .wrapper {
   overflow: hidden;
 }
-.cid-tXuLvRAKjo .wrapper img {
+.cid-tWIku9trGu .wrapper img {
   transition: all .5s;
 }
-.cid-tXuLvRAKjo .wrapper:hover img {
+.cid-tWIku9trGu .wrapper:hover img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1);
 }
-.cid-tXuLvRAKjo .underline .line {
+.cid-tWIku9trGu .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXuLvRAKjo .wrapper {
+.cid-tWIku9trGu .wrapper {
   position: relative;
   padding: 2rem;
   display: flex;
@@ -5240,13 +5236,13 @@ section.lazy-placeholder:after {
   align-items: flex-end;
   height: 25rem;
 }
-.cid-tXuLvRAKjo .wrapper .mbr-overlay {
+.cid-tWIku9trGu .wrapper .mbr-overlay {
   background: #000000;
   opacity: 0.3;
   z-index: 1;
   pointer-events: none;
 }
-.cid-tXuLvRAKjo .wrapper img {
+.cid-tWIku9trGu .wrapper img {
   position: absolute;
   top: 0;
   left: 0;
@@ -5255,31 +5251,31 @@ section.lazy-placeholder:after {
   object-fit: cover;
   object-position: center center;
 }
-.cid-tXuLvRAKjo .wrapper .content-block {
+.cid-tWIku9trGu .wrapper .content-block {
   position: relative;
   width: 100%;
   z-index: 1;
 }
 @media (max-width: 991px) {
-  .cid-tXuLvRAKjo .first-row-card {
+  .cid-tWIku9trGu .first-row-card {
     padding-bottom: 2rem;
   }
 }
-.cid-tXuLy75JSE {
+.cid-tWIkua5DUm {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/ancient-city-monemvasia-fortress-wall-shore-big-island-sunrise-peloponnese-greece-min-min.webp");
+  background-image: url("../../../assets/images/02-760x420.webp");
 }
-.cid-tXuLy75JSE .underline .line {
+.cid-tWIkua5DUm .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXuLy75JSE .form-group {
+.cid-tWIkua5DUm .form-group {
   margin-bottom: 1rem;
 }
-.cid-tXuLy75JSE .form-control {
+.cid-tWIkua5DUm .form-control {
   border: none !important;
   border-radius: 0;
   padding: 0.5rem 1rem;
@@ -5287,58 +5283,58 @@ section.lazy-placeholder:after {
   color: #000000;
   width: 100%;
 }
-.cid-tXuLy75JSE textarea.form-control {
+.cid-tWIkua5DUm textarea.form-control {
   min-height: 96px;
 }
-.cid-tXuLy75JSE .input-group-btn {
+.cid-tWIkua5DUm .input-group-btn {
   width: 100%;
 }
-.cid-tXuLy75JSE .input-group-btn .btn {
+.cid-tWIkua5DUm .input-group-btn .btn {
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
-.cid-tXuLy75JSE .form-control-label {
+.cid-tWIkua5DUm .form-control-label {
   color: #ffffff;
   font-size: 1rem;
   font-weight: 100 !important;
 }
-.cid-tXuLy75JSE .google-map {
+.cid-tWIkua5DUm .google-map {
   width: 100%;
   height: 25rem;
 }
-.cid-tXuLy75JSE .google-map iframe {
+.cid-tWIkua5DUm .google-map iframe {
   width: inherit;
   height: 100%;
 }
-.cid-tXuLy75JSE .info-row ol {
+.cid-tWIkua5DUm .info-row ol {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
-.cid-tXuLy75JSE .info-row ol li {
+.cid-tWIkua5DUm .info-row ol li {
   display: flex;
   -webkit-justify-content: space-between;
   justify-content: space-between;
   border-bottom: 1px solid #ffffff !important;
   padding: 10px;
 }
-.cid-tXuLy75JSE .info-value {
+.cid-tWIkua5DUm .info-value {
   color: #efefef;
 }
 @media (max-width: 991px), (max-width: 767px) {
-  .cid-tXuLy75JSE .form-wrapper {
+  .cid-tWIkua5DUm .form-wrapper {
     padding-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-tXuLy75JSE .form-subtitle {
+  .cid-tWIkua5DUm .form-subtitle {
     text-align: center;
   }
 }
-.cid-tXuLy75JSE .mbr-fallback-image.disabled {
+.cid-tWIkua5DUm .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tXuLy75JSE .mbr-fallback-image {
+.cid-tWIkua5DUm .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -5897,28 +5893,28 @@ section.lazy-placeholder:after {
   box-shadow: none;
   background: transparent !important;
 }
-.cid-tXkb1ZG0f8 {
+.cid-tWIqTSJD0J {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/maxresdefault-760x420.webp");
+  background-image: url("../../../assets/images/ancient-city-monemvasia-fortress-wall-shore-big-island-sunrise-peloponnese-greece-min-min.webp");
 }
-.cid-tXkb1ZG0f8 .underline .line {
+.cid-tWIqTSJD0J .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tXkb1ZG0f8 .card {
+.cid-tWIqTSJD0J .card {
   border-radius: 0px;
   margin-bottom: -1px;
 }
-.cid-tXkb1ZG0f8 .card .card-header {
+.cid-tWIqTSJD0J .card .card-header {
   background: #c19b76;
   border-radius: 0px;
   border: 0px;
   padding: 0;
 }
-.cid-tXkb1ZG0f8 .card .card-header a.panel-title {
+.cid-tWIqTSJD0J .card .card-header a.panel-title {
   margin-bottom: 0;
   margin-top: -1px;
   font-weight: 500;
@@ -5927,10 +5923,10 @@ section.lazy-placeholder:after {
   text-decoration: none !important;
   line-height: normal;
 }
-.cid-tXkb1ZG0f8 .card .card-header a.panel-title:focus {
+.cid-tWIqTSJD0J .card .card-header a.panel-title:focus {
   text-decoration: none !important;
 }
-.cid-tXkb1ZG0f8 .card .card-header a.panel-title h4 {
+.cid-tWIqTSJD0J .card .card-header a.panel-title h4 {
   border: 1px solid #dfdfdf;
   padding: 1.3rem 2rem;
   margin-bottom: 0;
@@ -5938,26 +5934,26 @@ section.lazy-placeholder:after {
   -webkit-align-items: center;
   align-items: center;
 }
-.cid-tXkb1ZG0f8 .card .card-header a.panel-title h4 .sign {
+.cid-tWIqTSJD0J .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
   font-size: 20px;
 }
-.cid-tXkb1ZG0f8 .card .panel-body {
+.cid-tWIqTSJD0J .card .panel-body {
   background: #ffffff;
 }
-.cid-tXkb1ZG0f8 .card .panel-body .mbr-text {
+.cid-tWIqTSJD0J .card .panel-body .mbr-text {
   margin: 0;
 }
 @media (max-width: 767px) {
-  .cid-tXkb1ZG0f8 .card-header h4,
-  .cid-tXkb1ZG0f8 .panel-body {
+  .cid-tWIqTSJD0J .card-header h4,
+  .cid-tWIqTSJD0J .panel-body {
     padding: 1rem !important;
   }
 }
-.cid-tXkb1ZG0f8 .mbr-fallback-image.disabled {
+.cid-tWIqTSJD0J .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tXkb1ZG0f8 .mbr-fallback-image {
+.cid-tWIqTSJD0J .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -5969,7 +5965,7 @@ section.lazy-placeholder:after {
 .cid-tWImlqx58Z {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/02-760x420.webp");
+  background-image: url("../../../assets/images/img0195.webp");
 }
 .cid-tWImlqx58Z .underline .line {
   width: 2rem;
@@ -6456,7 +6452,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-tWICZZNzh7 {
-  background-image: url("../../../assets/images/quasv04-760x420.webp");
+  background-image: url("../../../assets/images/116min.webp");
 }
 .cid-tWICZZNzh7 .mbr-arrow {
   background: #000000 !important;
@@ -6483,40 +6479,40 @@ section.lazy-placeholder:after {
   position: absolute;
   top: 0;
 }
-.cid-tWIAHvXogC {
+.cid-tXuc34uAKB {
   padding-top: 45px;
   padding-bottom: 45px;
   overflow: hidden;
   box-sizing: border-box;
   background-color: #ffffff;
 }
-.cid-tWIAHvXogC .underline .line {
+.cid-tXuc34uAKB .underline .line {
   width: 2rem;
   height: 1px;
   background: #878787;
   display: inline-block;
 }
-.cid-tWIAHvXogC .mbr-section-title,
-.cid-tWIAHvXogC .mbr-section-subtitle,
-.cid-tWIAHvXogC .underline {
+.cid-tXuc34uAKB .mbr-section-title,
+.cid-tXuc34uAKB .mbr-section-subtitle,
+.cid-tXuc34uAKB .underline {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-tWIAHvXogC .mbr-slider .carousel-control {
+.cid-tXuc34uAKB .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-tWIAHvXogC .mbr-slider .carousel-control-prev {
+.cid-tXuc34uAKB .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-tWIAHvXogC .mbr-slider .carousel-control-next {
+.cid-tXuc34uAKB .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-tWIAHvXogC .mbr-slider .modal-body .close {
+.cid-tXuc34uAKB .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-tWIAHvXogC .mbr-gallery-item > div::before {
+.cid-tXuc34uAKB .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -6529,10 +6525,10 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(180deg, #efefef, #c19b76);
 }
-.cid-tWIAHvXogC .icon-focus {
+.cid-tXuc34uAKB .icon-focus {
   display: none;
 }
-.cid-tWIAHvXogC .mbr-gallery-title {
+.cid-tXuc34uAKB .mbr-gallery-title {
   transition: all 0.5s ease;
   position: absolute;
   text-align: center;
@@ -6548,10 +6544,10 @@ section.lazy-placeholder:after {
   -o-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
 }
-.cid-tWIAHvXogC ul {
+.cid-tXuc34uAKB ul {
   font-size: 0;
 }
-.cid-tWIAHvXogC .mbr-gallery-filter ul li .btn {
+.cid-tXuc34uAKB .mbr-gallery-filter ul li .btn {
   border: none;
   background-color: transparent;
   color: #333333 !important;
@@ -6560,12 +6556,12 @@ section.lazy-placeholder:after {
   margin: 0 !important;
   transition: padding, border 0s, transform 0.2s;
 }
-.cid-tWIAHvXogC .mbr-gallery-filter ul li.active .btn {
+.cid-tXuc34uAKB .mbr-gallery-filter ul li.active .btn {
   padding: 0.5rem 1rem 0.5rem;
   border-radius: 0 !important;
   position: relative;
 }
-.cid-tWIAHvXogC .mbr-gallery-filter ul li.active .btn:after {
+.cid-tXuc34uAKB .mbr-gallery-filter ul li.active .btn:after {
   content: '';
   position: absolute;
   bottom: 0;
@@ -6574,30 +6570,30 @@ section.lazy-placeholder:after {
   height: 3px;
   background: #c19b76;
 }
-.cid-tWIAHvXogC .mbr-gallery-filter ul li {
+.cid-tXuc34uAKB .mbr-gallery-filter ul li {
   padding: 0;
 }
-.cid-tWIAHvXogC .mbr-gallery-item > div:hover .mbr-gallery-title {
+.cid-tXuc34uAKB .mbr-gallery-item > div:hover .mbr-gallery-title {
   padding-bottom: 1.5rem;
   display: block;
 }
-.cid-tWIAHvXogC .mbr-gallery-item > div:hover:before {
+.cid-tXuc34uAKB .mbr-gallery-item > div:hover:before {
   opacity: 0.8 !important;
 }
-.cid-tWIAHvXogC .btn {
+.cid-tXuc34uAKB .btn {
   background: none;
   border-radius: 0 !important;
 }
-.cid-tWIAHvXogC .btn:hover {
+.cid-tXuc34uAKB .btn:hover {
   background: transparent !important;
 }
-.cid-tWIAHvXogC .btn:hover:before {
+.cid-tXuc34uAKB .btn:hover:before {
   background: transparent !important;
 }
-.cid-tWIAHvXogC .btn:before {
+.cid-tXuc34uAKB .btn:before {
   background-color: transparent !important;
 }
-.cid-tWIAHvXogC .btn:focus {
+.cid-tXuc34uAKB .btn:focus {
   box-shadow: none;
   background: transparent !important;
 }
